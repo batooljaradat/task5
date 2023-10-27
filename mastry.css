@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contener
+{
+    width: 80%;
+    margin: auto;
+}
+
+.navbar
+{
+    background-color: black;
+}
+
+.logo img{
+    width: 50%;
+}
+
+
+.logo
+{
+    float: left;
+}
+
+
+.clr{
+    clear: both;
+}
+
+
+.navbar .list
+{
+    float: right;
+    margin-top: 5px;
+}
+.list a{
+    color: white;
+}
+
+.list ul
+{
+    list-style-type: none;
+}
+   
+
+.list ul li
+
+{
+    float: left;
+    margin-right: 15px;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.port
+{
+    text-align: center;
+    background-color: cornsilk;
+}
+
+.port img
+{
+ display: block;
+ width: 100%;
+
+
+}
+
+ .port .item
+{
+    float: left;
+    width: 33.33%;
+    padding-right: 30px;
+    
+}
